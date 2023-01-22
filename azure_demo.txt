@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Add your Azure Repository URL
+# repo_url=https://<username>@dev.azure.com/<organization>/<project>/_git/<repo>
+repo_url=https://github.com/chsatyasaikumar/testdemo_one.git
+# Clone the repository
+git clone $repo_url
+
+# Navigate to the repository folder
+cd <testdemo_one>
+
+# Add and commit changes
+git add .
+git commit -m "Automated commit"
+
+# Push changes to the Azure Repository
+git push
