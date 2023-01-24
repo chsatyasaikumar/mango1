@@ -1,0 +1,16 @@
+{
+	"date_details":{
+		"date_format": ["%d/%m/%Y"],
+		"date_field_columns":[
+			"Document Date",
+			"Trans Doc Date",
+			"Accounting Doc Date",
+			"PO Date",
+			"SO Date",
+			"Original Document Date",
+			"ackdt"
+		]
+	},
+	"exchange":{
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"blank_value_field":[
+		"MIS 1",
+		"MIS 2", 
+		"MIS 3", 
+		"MIS 4", 
+		"MIS 5", 
+		"MIS 6", 
+		"MIS 7", 
+		"MIS 8", 
+		"MIS 9", 
+		"MIS 10", 
+		"FU 1", 
+		"FU 2", 
+		"FU 3", 
+		"FU 4", 
+		"FU 5",
+		"FU 6",
+		"FU 7",
+		"FU 8",
+		"FU 9",
+		"FU 10"
+	],
+	"date_details":{
+		"date_format": "%d/%m/%Y",
+		"date_field_columns":[
+			"Doc Date",
+			"Trans Doc Date",
+			"Acc Doc Date",
+			"PO Date",
+			"SO Date",
+			"Org Doc Date"
+		]
+	}
+
+}

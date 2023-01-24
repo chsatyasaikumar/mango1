@@ -1,0 +1,4 @@
+{
+	"level_one_bucket": "demo-raw-bucket-dev",
+	"level_two_bucket": "demo-processed-bucket-dev"
+}
